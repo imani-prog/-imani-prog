@@ -1,15 +1,11 @@
 # Hi there, I'm Imani! 👋
 
-<img src="[https://avatars.githubusercontent.com/u/116866976?v=4](https://avatars.githubusercontent.com/u/184016427?s=400&u=de1806f392a69d45dbc4b74f298755fe2789eacd&v=4)" width="100%" alt="Profile Banner"/> <!-- Replace or remove this banner -->
-
-
-
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning: **Java EE, Springboot Boot framework, React.js and DevOps**
 - 👯 I’m looking to collaborate on: **Building scalable systems both backend and frontend**
 - 💬 Ask me about: **Java, Springboot, AI, Kenya**
-- 🏆 Fun fact: **I like having mellow vibes with AI model😂**
+- 🏆 Fun fact: **I like having mellow vibes with AI models😂**
 
 ---
 
@@ -71,13 +67,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/timothy-imani-5677ba253" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" style="animation: shake 1s infinite alternate;"/>
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
+  <a href="https://x.com/DevctoImani" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" width="40" height="40" alt="Twitter" style="animation: shake 1s infinite alternate;"/>
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://imani-prog.github.io/TimothyImaniProfile/" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" width="40" height="40" alt="Website" style="animation: shake 1s infinite alternate;"/>
   </a>
 </p>
@@ -86,4 +82,3 @@
 
 > _“Do something today that your future self will thank you for.”_
 
-<!-- Optional: Add a custom SVG animation or GIF at the bottom for extra flair! -->
