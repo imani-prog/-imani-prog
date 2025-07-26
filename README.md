@@ -1,6 +1,6 @@
 # Hi there, I'm Imani! 👋
 
-![Profile Banner](<img src="https://avatars.githubusercontent.com/u/116866976?v=4" width="100%" alt="Profile Banner"/>) <!-- Replace or remove this banner -->
+<img src="https://avatars.githubusercontent.com/u/116866976?v=4" width="100%" alt="Profile Banner"/> <!-- Replace or remove this banner -->
 
 ---
 
