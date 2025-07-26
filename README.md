@@ -6,10 +6,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning: **[Your learning topics]**
-- 👯 I’m looking to collaborate on: **[Your collaboration interests]**
-- 💬 Ask me about: **[Your expertise]**
-- 🏆 Fun fact: **[Something unique about you]**
+- 🌱 I’m currently learning: **Java EE, Springboot Boot framework, React.js and DevOps**
+- 👯 I’m looking to collaborate on: **Building scalable systems both backend and frontend**
+- 💬 Ask me about: **Java, Springboot, AI, Kenya**
+- 🏆 Fun fact: **I like having mellow vibes with AI model😂**
 
 ---
 
