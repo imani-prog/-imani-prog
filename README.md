@@ -7,7 +7,7 @@
 - 💻 Passionate about **building scalable backend and frontend systems**  
 - 🌱 Currently mastering **Java EE, Spring Boot, React.js, and DevOps**  
 - 🤝 Open to collaborating on **open-source projects & impactful tech solutions**  
-- 💬 Ask me about **Java, Spring Boot, AI, and building robust APIs**  
+- 💬 Ask me about **Java,Python, Spring Boot, Artificial Intelligence, and building robust APIs**  
 - ⚡ Fun fact: I enjoy coding late at night while having mellow chats with AI models 😂  
 
 ---
