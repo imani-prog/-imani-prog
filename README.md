@@ -68,15 +68,16 @@
 ## 🌐 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/timothy-imani-5677ba253" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://x.com/DevctoImani" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://imani-prog.github.io/TimothyImaniProfile/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" style="margin-right:10px;" />
   </a>
 </p>
+
 
 ---
 
