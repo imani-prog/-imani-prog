@@ -51,7 +51,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [**MediLink**](https://github.com/imani-prog/MediLink) – Digital healthcare platform connecting citizens, clinics, and CHWs  
+- [**MediLink**](https://medilink-public.vercel.app/) – Digital healthcare platform connecting citizens, clinics, and CHWs  
 - [**DockerizedModels**](https://github.com/imani-prog/DockerizedModels) – Spring Boot + MySQL backend in Docker  
 - [**Hospital ERP**](#) – Scalable healthcare management system  
 
