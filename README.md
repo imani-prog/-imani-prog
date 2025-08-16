@@ -1,13 +1,14 @@
 # 👋 Hey, I'm Timothy Imani  
-🚀 **Full-Stack Developer | Java Spring Boot & React Specialist**  
+🚀 **Software Engineer | Java Spring Boot & Cloud Enthusiast**  
+*Engineering scalable software solutions with Java, Spring Boot, and modern DevOps practices*  
 
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Passionate about **building scalable backend and frontend systems**  
+- 💻 Passionate about **designing and engineering scalable software systems**  
 - 🌱 Currently mastering **Java EE, Spring Boot, React.js, and DevOps**  
 - 🤝 Open to collaborating on **open-source projects & impactful tech solutions**  
-- 💬 Ask me about **Java,Python, Spring Boot, Artificial Intelligence, and building robust APIs**  
+- 💬 Ask me about **Java, Python, Spring Boot, Artificial Intelligence, and building robust APIs**  
 - ⚡ Fun fact: I enjoy coding late at night while having mellow chats with AI models 😂  
 
 ---
@@ -77,7 +78,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" style="margin-right:10px;" />
   </a>
 </p>
-
 
 ---
 
